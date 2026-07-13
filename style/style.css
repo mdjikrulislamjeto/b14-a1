@@ -43,7 +43,7 @@ ul li a{
 
 .hero{
     background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-                      url("../images/banner.jpg");
+                      url("../assets/banner.jpg");
     background-repeat: no-repeat;
 
     display: flex;
